@@ -1,0 +1,3 @@
+target = [out.x1.signals.values,out.x2.signals.values,out.x3.signals.values];
+
+input = [out.u.signals.values];
